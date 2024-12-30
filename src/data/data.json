@@ -1,0 +1,262 @@
+{
+  "About": {
+    "name": "About Us",
+    "data": {
+      "tital": "Transform Your Business With AI Technology",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "details": [
+        { "name": "ArtificialIntelligence", "value": 90 },
+        {
+          "name": "Client Service",
+          "value": 71
+        },
+        {
+          "name": "Quality",
+          "value": 85
+        }
+      ],
+      "image": "/about_Img.webp"
+    }
+  },
+
+  "portfolio": {
+    "name": "Our Portfolio",
+    "data": {
+      "tital": "Take A Look At Our Completed Projects",
+      "project": {
+        "p1": {
+          "PTital": "AI Machine Learning",
+          "PText": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt labore.",
+          "PImage": "/portfolio_1.webp"
+        },
+        "p2": {
+          "PTital": "Advanced Programming",
+          "PText": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt labore.",
+          "PImage": "/portfolio_2.webp"
+        },
+        "p3": {
+          "PTital": "AI Dev",
+          "PText": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt labore.",
+          "PImage": "/portfolio_3.webp"
+        },
+        "p4": {
+          "PTital": "Smart House Technology",
+          "PText": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt labore.",
+          "PImage": "/portfolio_4.webp"
+        },
+        "p5": {
+          "PTital": "Big House Technology",
+          "PText": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt labore.",
+          "PImage": "/portfolio_5.webp"
+        }
+      }
+    }
+  },
+  "services": {
+    "name": "Our Services",
+    "data": [
+      {
+        "id": 1,
+        "tital": "Robotic Automation",
+        "text": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt labore.",
+        "photo": "/services_1.webp"
+      },
+      {
+        "id": 2,
+
+        "tital": "AI For Conversation",
+        "text": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt labore.",
+        "photo": "/services_2.webp"
+      },
+      {
+        "id": 3,
+
+        "tital": "Machine Learning",
+        "text": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt labore.",
+        "photo": "/services_3.webp"
+      },
+      {
+        "id": 4,
+
+        "tital": "Cyber Security",
+        "text": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt labore.",
+        "photo": "/services_4.webp"
+      },
+      {
+        "id": 5,
+
+        "tital": "Virtual Reality",
+        "text": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt labore.",
+        "photo": "/services_5.webp"
+      },
+      {
+        "id": 6,
+
+        "tital": "Industrial Automation",
+        "text": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt labore.",
+        "photo": "/services_6.webp"
+      }
+    ]
+  },
+  "cartsData": {
+    "name": "Pricing plans",
+    "data": [
+      {
+        "name": "Free",
+        "discription": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.",
+        "price": 0,
+        "details": [
+          "Requirement Analysis",
+          "AI Strategy Development",
+          "AI Solution Design",
+          "Data Preparation",
+          "Performance Evaluation"
+        ]
+      },
+      {
+        "name": "Standard",
+        "discription": " At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.",
+        "price": 29,
+        "details": [
+          "Requirement Analysis",
+          "AI Strategy Development",
+          "AI Solution Design",
+          "Data Preparation",
+          "Performance Evaluation"
+        ]
+      },
+      {
+        "name": "Advanced",
+        "discription": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.",
+        "price": 59,
+        "details": [
+          "Requirement Analysis",
+          "AI Strategy Development",
+          "AI Solution Design",
+          "Data Preparation",
+          "Performance Evaluation"
+        ]
+      }
+    ]
+  },
+
+  "blog": {
+    "name": "Blog",
+    "data": [
+      {
+        "id": "1",
+        "photo": "/blog_1.webp",
+        "tital": "Transforming Industries And Changing Lives With AI",
+        "date": "April 25, 2024"
+      },
+      {
+        "id": "2",
+        "photo": "/blog_2.webp",
+        "tital": "How AI Is Changing The Face Of Digital Marketing",
+        "date": "April 25, 2024"
+      },
+      {
+        "id": "3",
+        "photo": "/blog_3.webp",
+        "tital": "Exploring The Ethics Of AI And Robotics In Society",
+        "date": "April 25, 2024"
+      },
+      {
+        "id": "4",
+        "photo": "/blog_4.webp",
+        "tital": "The Future of Robots - Collaboration or Cooperation?",
+        "date": "April 25, 2024"
+      },
+      {
+        "id": "5",
+        "photo": "/blog_5.webp",
+        "tital": "From Sci-Fi to Reality: The Journey of AI and Robotics",
+        "date": "April 25, 2024"
+      },
+      {
+        "id": "6",
+        "photo": "/blog_6.webp",
+        "tital": "Exploring the Applications of AI in Robotics",
+        "date": "April 25, 2024"
+      }
+    ]
+  },
+  "team": {
+    "name": "Team",
+    "data": [
+      {
+        "id": 1,
+        "name": "Harper Russo",
+        "job": "Project Manager",
+        "photo": "/teamMember_1.webp"
+      },
+      {
+        "id": 2,
+        "name": "Georg Lehner",
+        "job": "AI Developer",
+        "photo": "/teamMember_2.webp"
+      },
+      {
+        "id": 3,
+        "name": "Gregor Winkler",
+        "job": "export default",
+        "photo": "/teamMember_3.webp"
+      },
+      {
+        "id": 4,
+        "name": "Emma Watson",
+        "job": "Designer",
+        "photo": "/teamMember_4.webp"
+      },
+      {
+        "id": 5,
+        "name": "Isabell",
+        "job": "Digital Marketing Expert",
+        "photo": "/teamMember_5.webp"
+      },
+      {
+        "id": 6,
+        "name": "Linda",
+        "job": "Graphic Designer",
+        "photo": "/teamMember_6.webp"
+      }
+    ]
+  },
+  "feedback": {
+    "name": "TESTIMONIALS",
+    "data": {
+      "tital": "What People Say",
+      "content": {
+        "text": "At vero eos et accusamus et iusto odio dignissimos ducimus qui et blanditiis praesentium sint voluptatum deleniti atque corrupti.",
+        "experience": 15,
+        "worldwideUser": 150
+      },
+      "feedbacks": [
+        {
+          "id": 1,
+          "name": "Harper Russo",
+          "job": "Project Manager",
+          "comment": "“Lorem ipsum dolor sit amet, consectetur ea dui adipiscing elit, sed do eiusmod tempor.”",
+          "photo": "/testimional_img1.webp",
+          "stars": 5
+        },
+        {
+          "id": 2,
+          "name": "Gabriel Wolf",
+          "job": "Project Manager",
+          "comment": "“Lorem ipsum dolor sit amet, consectetur ea dui adipiscing elit, sed do eiusmod tempor.”",
+          "photo": "/testimional_img2.webp",
+          "stars": 4
+        },
+        {
+          "id": 3,
+          "name": "Simon Fischer",
+          "job": "Project Manager",
+          "comment": "“Lorem ipsum dolor sit amet, consectetur ea dui adipiscing elit, sed do eiusmod tempor.”",
+          "photo": "/testimional_img3.webp",
+          "stars": 5
+        }
+      ]
+    }
+  }
+}

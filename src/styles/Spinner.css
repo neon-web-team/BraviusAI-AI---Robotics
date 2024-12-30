@@ -1,0 +1,34 @@
+
+
+  
+  .spinner {
+    width: 6rem;
+    height: 6rem;
+    position: absolute;
+    border-radius: 50%;
+    background: conic-gradient(#04070e 30%, #00f0ff);
+    -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 20px), #000 0);
+    animation: rotateSpinner 5s infinite linear;
+  }
+
+  .miniSpinner{
+    position: absolute;
+    width: 2rem;
+    height: 2rem;
+    z-index: 100;
+    animation: rotateMiniSpinner 2s infinite linear;
+    
+  }
+
+  
+  @keyframes rotateMiniSpinner {
+
+    50% {
+      opacity: 0;
+    }
+  }
+  @keyframes rotateSpinner {
+    to {
+      transform: rotate(5turn);
+    }
+  }
